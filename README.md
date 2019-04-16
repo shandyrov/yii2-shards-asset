@@ -29,6 +29,9 @@ to the require section of your `composer.json` file.
 Visit the [online documentation](https://designrevision.com/docs/shards-dashboard-lite) for the most
 updated guide.
 
+## Live demo
+[live demo](https://designrevision.com/demo/shards-dashboard-lite)
+
 ## Quick Start
 Once the extension is installed, you can have a preview by reconfiguring the path mappings of the view component:
 
