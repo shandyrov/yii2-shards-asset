@@ -13,7 +13,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist shandyrov/yii2-shards-asset "*"
+composer require shandyrov/yii2-shards-asset
 ```
 
 or add
