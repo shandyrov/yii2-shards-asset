@@ -2,6 +2,9 @@ AdminSHARDS Asset Bundle
 ===========
 AdminSHARDS Asset Bundle for Backend Theme in Yii2 Framework
 
+![shards](https://designrevision.com/app/uploads/edd/shards-dashboard-lite-featured.jpg "Shards Dashboard Lite")
+
+
 Installation
 ------------
 
