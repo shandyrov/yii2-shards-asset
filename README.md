@@ -42,7 +42,6 @@ For Yii 2 Advanced Application Template or Basic Application Template
     ],
 ],
 ```
+This extension contains sample files for layout and viewing, they are not intended to be edited in the vendor / folder.
 
-Это расширение содержит примеры файлов для макета и просмотра , они не предназначены для  редактирования в папке vendor /.
-
-Поэтому рекомендуется скопировать представления в ваше приложение и настроить их в соответствии с вашими потребностями.
+Therefore, it is recommended that you copy the views into your application and customize them according to your needs.
