@@ -1,4 +1,4 @@
-AdminSHARDS
+AdminSHARDS Asset Bundle
 ===========
 AdminSHARDS Asset Bundle for Backend Theme in Yii2 Framework
 
@@ -22,10 +22,27 @@ or add
 to the require section of your `composer.json` file.
 
 
-Usage
------
+## Documentation
+Visit the [online documentation](https://designrevision.com/docs/shards-dashboard-lite) for the most
+updated guide.
 
-Once the extension is installed, simply use it in your code by  :
+## Quick Start
+Once the extension is installed, you can have a preview by reconfiguring the path mappings of the view component:
+
+For Yii 2 Advanced Application Template or Basic Application Template
 
 ```php
-<?= \shandyrov\shards\AutoloadExample::widget(); ?>```
+'components' => [
+    'view' => [
+         'theme' => [
+             'pathMap' => [
+                '@app/views' => '@vendor/shandyrov/yii2-shards-asset/src/examples/views'
+             ],
+         ],
+    ],
+],
+```
+
+Это расширение содержит примеры файлов для макета и просмотра , они не предназначены для  редактирования в папке vendor /.
+
+Поэтому рекомендуется скопировать представления в ваше приложение и настроить их в соответствии с вашими потребностями.
