@@ -47,6 +47,6 @@ This extension contains sample files for layout and viewing, they are not intend
 Therefore, it is recommended that you copy the views into your application and customize them according to your needs.
 
 ## Customization
-Copy files from vendor /shandyrov/yii2-shards-asset/src/examples/views/yii2 to @app/views.
+Copy files from ```vendor/shandyrov/yii2-shards-asset/src/examples/views/yii2 to @app/views```.
 
 Edit your views.
