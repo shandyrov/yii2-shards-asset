@@ -42,7 +42,7 @@ For Yii 2 Advanced Application Template or Basic Application Template
     'view' => [
          'theme' => [
              'pathMap' => [
-                '@app/views' => '@vendor/shandyrov/yii2-shards-asset/src/examples/views'
+                '@app/views' => '@vendor/shandyrov/yii2-shards-asset/src/examples/views/yii2'
              ],
          ],
     ],
